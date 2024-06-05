@@ -1,6 +1,6 @@
 package org.example;
 
-public class Table {
+public class NewTable {
 
     // TODO add raizing
 
