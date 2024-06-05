@@ -11,7 +11,4 @@ public class NewTable {
         System.out.println("Hello, world!");
     }
 
-    //TODO komier
-
-
 }
