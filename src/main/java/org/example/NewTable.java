@@ -9,7 +9,9 @@ public class NewTable {
         }
         System.out.println("Hello, world!");
     }
-
+    public String toString(){
+        return "hell";
+    }
     //XXX should I have to do that? If this is not done, then the colors don't appear --> bug of #setVisibleRegion ? --> See \"1GHQC7Q: ITPUI:WIN2000 - TextViewer#setVisibleRegion doesn't take into account the colors\"
 
 }
