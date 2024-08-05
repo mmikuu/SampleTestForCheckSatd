@@ -5,9 +5,10 @@ public class Main {
 
         System.out.println("konnitiwa");
         for(int i = 0; i<6; i++){
-            //TODO change name
+            //TODO change category
             int x = i;
             System.out.println(x);
+            //TODO check implemantaiton
         }
         System.out.println("Hello world!");
         //FIX this u
